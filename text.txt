@@ -1,0 +1,2 @@
+This is my first text file.
+Git is a gift from code gods.
